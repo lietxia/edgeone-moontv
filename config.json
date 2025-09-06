@@ -1,11 +1,14 @@
 {
   "homepage_password": "admin123",
+  "douban_proxy": "https://eo.r-mj.com/?",
+  "downstream_proxy": "https://eo.r-mj.com/?",
+  "image_proxy": "https://eo.r-mj.com/?",
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
+      "detail": "https://caiji.dyttzyapi.com"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
